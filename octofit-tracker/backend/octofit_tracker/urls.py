@@ -2,6 +2,11 @@
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
+
+Codespace Environment Configuration:
+    Base URL format: https://{CODESPACE_NAME}-8000.app.github.dev
+    API endpoints available at: https://{CODESPACE_NAME}-8000.app.github.dev/api/
+
 Examples:
 Function views
     1. Add an import:  from my_app import views
